@@ -34,6 +34,13 @@ React Native:
 React Native is a framework for building mobile applications using React. It allows developers to write native mobile apps for iOS and Android platforms using JavaScript and React. With React Native, you can create mobile apps that have the look and feel of native apps while sharing a significant amount of code between platforms. This can save development time and resources compared to developing separate apps for each platform.
 https://www.youtube.com/watch?v=0-S5a0eXPoc
 
+Github and Git:
+GitHub is an online platform that provides developers with a centralized location for storing and sharing their code. It is built on top of Git, a distributed version control system that allows multiple developers to collaborate on the same codebase simultaneously. Git tracks changes to code over time, making it easy to revert to previous versions if necessary. GitHub extends Git's functionality by providing features such as bug tracking, project management tools, and code review workflows. By using GitHub, developers can easily collaborate on projects, contribute to open source software, and showcase their work to potential employers or clients.
+Resource: https://www.youtube.com/watch?v=RGOj5yH7evk 
+
+
+
+
 
 In summary, web development involves various tools and frameworks that help developers create and maintain websites and web applications. React.js is used for building user interfaces, while Tailwind CSS is a CSS frameworks for styling while React Native is used for building mobile apps with React apps. These tools and frameworks make the development process more efficient and help create high-quality web experiences.
 
