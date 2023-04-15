@@ -1,4 +1,8 @@
 # BCC-BeeLikeCoders
+
+
+slides: https://docs.google.com/presentation/d/1gSd4al3VPZQ3jx5qTHEfHoaEJyCoC01zilRE2B_tihk/edit?usp=sharing
+
 The BeeLikeCoders College Web Developmen is a  resource for individuals looking to learn about web development and the various tools for web development. Web development is the process of creating and maintaining websites or web applications that run on the internet. It involves two main areas: front-end development (the user interface and user experience) and back-end development (the server-side logic and databases). In this beginner explanation, we'll introduce you to some popular tools and frameworks used in web development, such as React.js, Tailwind CSS, Bootstrap, Next.js, and React Native.
 
 
@@ -37,6 +41,7 @@ https://www.youtube.com/watch?v=0-S5a0eXPoc
 Github and Git:
 GitHub is an online platform that provides developers with a centralized location for storing and sharing their code. It is built on top of Git, a distributed version control system that allows multiple developers to collaborate on the same codebase simultaneously. Git tracks changes to code over time, making it easy to revert to previous versions if necessary. GitHub extends Git's functionality by providing features such as bug tracking, project management tools, and code review workflows. By using GitHub, developers can easily collaborate on projects, contribute to open source software, and showcase their work to potential employers or clients.
 Resource: https://www.youtube.com/watch?v=RGOj5yH7evk 
+https://dev.to/vscodetips/june-13th-2022-vs-code-tip-of-the-week-3eb0#:~:text=Press%20CTRL%20%2B%20Shift%20%2B%20P%20(,And%20there%20you%20go!
 
 
 
